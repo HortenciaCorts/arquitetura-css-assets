@@ -1,0 +1,13 @@
+.quem-somos__titulo{
+    color: #8d0606;
+    font-family: Pacifico, cursive;
+    font-size: 1.75rem;
+    text-align: center;
+}
+
+.quem-somos__descricao{
+    color: #595959;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 100;
+    text-align: center;
+}
